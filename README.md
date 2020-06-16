@@ -40,7 +40,7 @@ atilo run [Image you pulled before]
 ### Install VIM & Youcompleteme
 - I just use Ubuntu 20.04LTS for my daily usage
 so it's easily to install vim-youcomplete through 
-```
+```bash
 apt-get install vim vim-youcompleteme
 ```
 This command is so quick to install youcompleteme
