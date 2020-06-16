@@ -1,5 +1,6 @@
 # My_pocket_dev_env
 A tutorial for installation of VIM-YouCompleteMe &amp; Linux-repo in Termux(Android terminal emulator)
+中文用户[请点击](zh-CN_README.md)
 ## Installation guide
 - First,install Termux on your Android phone from google play store OR an apk package(No root needed)
 
