@@ -3,6 +3,7 @@
 
 ## 安装过程
 - 首先，从应用商店下载安装Termux(仅限Android用户,IOS用户请使用SSH到VPS的方法) 
+
 打开Termux
 ### 安装Atilo
 > 什么是Atilo?<br>
@@ -47,4 +48,5 @@ apt-get install vim vim-youcompleteme
 - 其他发行版我还没有测试过，不过理论上都可以从源码编译安装Youcompleteme
 ### 配置VIM和Youcompleteme
 配置文件已经传到我的Github
+
 My vimrc is [Here](https://github.com/zhzhzhy/My_vimrc)
