@@ -2,9 +2,11 @@
 A tutorial for installation of VIM-YouCompleteMe &amp; Linux-repo in Termux(Android terminal emulator)
 ## Installation guide
 First,install Termux on your Android phone from google play store OR an apk package(No root needed)
+
 Open your Termux
 ### Install Atilo
 > what's Atilo?
+
 > A program to install linux on termux
 Type these code
 ```
