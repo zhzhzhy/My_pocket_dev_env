@@ -5,8 +5,7 @@ First,install Termux on your Android phone from google play store OR an apk pack
 
 Open your Termux
 ### Install Atilo
-> what's Atilo?
-
+> what's Atilo?<br>
 > A program to install linux on termux
 Type these code
 ```
@@ -14,4 +13,4 @@ echo "deb [trusted=yes arch=all] https://yadominjinta.github.io/files/ termux ex
 pkg update
 pkg in atilo
 ```
-More info about Atilo installation ![Click here](https://github.com/YadominJinta/atilo/blob/master/README.md)
+More info about Atilo installation [Click here](https://github.com/YadominJinta/atilo/blob/master/README.md)
