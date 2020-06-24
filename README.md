@@ -50,3 +50,6 @@ This command is so quick to install youcompleteme
 But I haven't test other distributions yet.
 ### Configure .vimrc configuration file
 My vimrc is [Here](https://github.com/zhzhzhy/My_vimrc)
+
+### Here is an example for VIM autocomplete
+![example](img/example.jpg)
