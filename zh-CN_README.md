@@ -50,3 +50,6 @@ apt-get install vim vim-youcompleteme
 配置文件已经传到我的Github
 
 My vimrc is [Here](https://github.com/zhzhzhy/My_vimrc)
+
+### VIM自动补全最终效果如图
+![example.jpg](img/example.jpg)
